@@ -21,7 +21,7 @@ public class MainCompra {
 
 		do {
 
-			System.out.println("\n============================== Compras =================================\n");
+			System.out.println("\n============================== COMPRAS =================================\n");
 			System.out.println("1-CRIAR   2-CONSULTAR   3-ATUALIZAR   4-DELETAR   5-CONSULTAR POR ID  0-SAIR");
 			opcao = s.nextInt();
 			s.nextLine();

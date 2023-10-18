@@ -18,7 +18,7 @@ public class MainCliente {
 
 		do {
 
-			System.out.println("\n============================== USUARIOS =================================\n");
+			System.out.println("\n============================== CLIENTES =================================\n");
 			System.out.println("1-CRIAR   2-CONSULTAR   3-ATUALIZAR   4-DELETAR   5-CONSULTAR POR ID  0-SAIR");
 			opcao = s.nextInt();
 			s.nextLine();
